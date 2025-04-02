@@ -1,7 +1,7 @@
 - a 👋 Hi, I’m Daniel
 - 👀 I’m interested in aprender mas 
 - 🌱 I’m currently learning ... ingeniero en programación 
-- 💞️ I’m looking to collaborate on ... soltero 
+- 💞️ I’m looking to collaborate on ... cualquier código q me emseñe mas 
 - 📫 How to reach me ... +51906202529
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
